@@ -1,0 +1,26 @@
+Find column to check duplicates:
+Col_to_check = [‘Email’, ‘Phone’, ‘FirstName’, ‘LastName’]
+Duplicates = customers[customers.duplicated(Col_to_check)]
+
+customers = customers[customers.duplicated(Col_to_check, keep=’first’)]
+
+customers.isnull().sum()
+
+columns_to_remove = ['Job Rating', 'NEw Salary','Tax Rate','2.91%']
+employees = employees.drop(columns=columns_to_remove )
+
+
+string = My Name is Rajasekaran
+find(
+YM eman is
+String[-1]
+dict  = 1=a, 2=b, 
+a={1:a, 2:b}
+b= a
+b={1:c, 2:b}
+print a,b
+for (i=1, )
+print(i)
+1, 22, 333, 4444, 
+
+Today is Tuesday:
