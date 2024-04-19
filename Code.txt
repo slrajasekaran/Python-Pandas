@@ -1,0 +1,36 @@
+Chartered financial analyst
+
+
+def solveMeFirst(a,b):
+	# Hint: Type return a+b below
+    return a+b
+
+num1 = int(input())
+num2 = int(input())
+res = solveMeFirst(num1,num2)
+print(res)
+=============================================================
+
+=============================================================
+
+
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+
+
+POWER BI, MSBI-(SSIS/SSRS/SSAS), SQL server reporting Services (SSRS), SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), MS Azure Cloud - Azure Data Factory (ADF), Azure Synapse Analytics, Azure Data Lake Storage (ADLS) Gen2, Azure Storage Explorer, Azure Data Studio, Azure SQL Server, Azure DevOps CI/CD, Azure Integration Services, Databricks, Azure App Insights, LogicApps, DAX Studio, ALM Toolkit, Power Platform, Power Apps, Power Automate, .NET, SAP BW4/HANA, SAP BI 7.5, SAP HANA 2.0, ABAP/4, SAP Analytics Cloud (SAC), SAP BTP Integration Suite, SAP BusinessObjects (BOBJ), SAP Crystal Reports, Tableau, MicroStrategy, IBM Cognos Enterprise, OData, REST APIs, Python, Pandas, NumPy, Web Scrapy, Matplotlib, SciPy, Sklearn, Scikit, Apache Spark, Scala, Jupyter Notebook, Visual Studio Code, R Language/R Scripts, Data Science, Machine Learning, Statistical Analysis System (SAS), Visual Studio Team System (VSTS), Salesforce CRM/Veeva CRM, Skyvia, Snowflake, Google Cloud Platform (GCP), Dynamics 365, AWS S3, Informatica, IBM DataStage, Teradata, MS-Access, Oracle, PL/SQL, MS SQL Server 2008/2005, T-SQL, IBM DB2, PostgreSQL, Redshift, MongoDB, Word, Excel, PowerPoint, draw.io, Erwin, Lucid Chart, Unix/Linux, Shell Scripting, JIRA, Confluence,  KANBAN, Scrum, Agile, SAP Solution Manager, Github, ServiceNow, RevTrac, MS Visio, Project Management, Lotus Notes.
+
+Portfolio 
+
+
+POWER BI, MS Azure Cloud - Azure Data Factory (ADF), Azure Synapse Analytics, Databricks, Azure Data Lake Storage (ADLS) Gen2, Azure Storage Explorer, Azure Data Studio, Azure SQL Server, Azure DevOps CI/CD, Azure Integration Services, Azure App Insights, LogicApps, DAX Studio, ALM Toolkit, Power Platform, Power Apps, Power Automate, MSBI-(SSIS/SSRS/SSAS), .NET, SAP BW4/HANA, SAP HANA 2.0, ABAP/4, SAP Analytics Cloud (SAC), SAP BTP Integration Suite, SAP BusinessObjects (BOBJ)4.x, SAP Crystal Reports, Tableau, MicroStrategy, IBM Cognos Enterprise, OData, REST APIs, Python, Pandas, NumPy, Web Scrapy, Matplotlib, SciPy, Sklearn, Scikit, Apache Spark, Scala, Jupyter Notebook, Visual Studio Code, R Language/R Scripts, Data Science, Machine Learning, Statistical Analysis System (SAS), Visual Studio Team System (VSTS), Salesforce CRM/Veeva CRM, Skyvia, Snowflake, Google Cloud Platform (GCP), Dynamics 365, AWS S3, Informatica, IBM DataStage, Teradata, Oracle, PL/SQL, MS SQL Server 2008/2005, T-SQL, IBM DB2, PostgreSQL, Redshift, MongoDB, Word, Excel, PowerPoint, Access, Erwin, Unix/Linux, Shell Scripting, JIRA, Confluence,  KANBAN, Scrum, Agile, Github, ServiceNow, MS Visio, Project Management.
